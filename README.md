@@ -1,4 +1,4 @@
-# concepts_and_code_decision_trees
+# Concepts and Code: Decision Trees
 This repository contains the files associated with the StatQuest "Concepts and Code" livestream for [Decision Trees](https://youtube.com/live/z6V3keTibCA). BAM!
 
 **NOTE!!!** In the livestream I had trouble getting the classification trees to work well in Python. Ultimately, the reason for
